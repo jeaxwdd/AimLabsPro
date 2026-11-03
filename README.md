@@ -1,6 +1,6 @@
 # 🎯 AimLabsPro
 
-> 🚀 **Simply double-click `start.bat` to launch the game instantly!**
+> 🚀 **Simply double-click `PLAY AIMLABS.bat` to launch the game instantly!**
 
 ---
 
@@ -16,7 +16,7 @@ Warm up before your competitive matches, or push your **flicking**, **tracking**
 
 ## 🔥 Key Features
 
-* ⚡ **Instant Launch:** Run `start.bat` with a single click to start the local server and play directly in your browser.
+* ⚡ **Instant Launch:** Run `PLAY AIMLABS.bat` with a single click to start the local server and play directly in your browser.
 * 🎯 **Multiple Training Modes:** Test your reflexes with flicking, tracking, and target precision challenges.
 * 🚀 **Zero Lag:** Lightweight browser engine optimized for high FPS, even on lower-end systems.
 * 📊 **Detailed Stats:** Track your accuracy percentage, reaction times, and high scores.
