@@ -24,10 +24,3 @@ Warm up before your competitive matches, or push your **flicking**, **tracking**
 
 ---
 
-## 🚀 Quick Start
-
-Getting started takes just a few seconds:
-
-1. Clone or download this repository:
-   ```bash
-   git clone [https://github.com/jeaxwdd/AimLabsPro)
